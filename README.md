@@ -1,0 +1,2 @@
+# mygoTest
+go firstclass
